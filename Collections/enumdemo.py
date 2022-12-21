@@ -5,7 +5,7 @@ class Days(enum.Enum):
    Mon = 2
    Tue = 3
 # print the enum member as a string
-print ("The enum member as a string is : ",end="")
+print ("The enum member as a string is   ff: ",end="")
 print (Days.Mon)
 
 # print the enum member as a repr
